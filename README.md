@@ -5,7 +5,7 @@ R2 Pharos BOT
 - Connect Same Wallet With Pharos
 
 ## Features
-
+2
   - Auto Get Account Information
   - Auto Run With Private Proxy - `Choose 1`
   - Auto Run Without Proxy - `Choose 2`
